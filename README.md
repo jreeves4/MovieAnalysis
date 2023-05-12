@@ -6,4 +6,4 @@ notebook. You can also access the page by simply going to:
 JackSkandalis.github.io
 
 Thanks,
-Jack and Jimmy
+Jimmy
